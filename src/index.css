@@ -1,0 +1,11 @@
+.project{
+    color: #fff;
+    text-align: center;
+    opacity: 50%;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.project:hover{
+    opacity: 100%;
+}
